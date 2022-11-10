@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm a software engineer, currently developing for iOS with Swift. I have broad experience with web development, specializing in frontend, mainly with React. I'm building the future of financial market at Nelogica.
+I'm a software engineer. I have broad experience with web development, specializing in frontend, mainly with React.
 
 I've worked in projects of different areas: education, health and investments. In this journey, I went through many technologies, such as Python, C#, SQL, etc. Regardless of the tools, my objective is to solve problems and deliver value to users.
 
