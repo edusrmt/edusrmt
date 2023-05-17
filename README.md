@@ -16,8 +16,9 @@ I've worked in projects of different areas: education, health and investments. I
 ## ⭐️ Repositories
 Here are some of my repositories that you may find interesting, but feel free to explore the others:
 - [CRWN Clothing](https://github.com/edusrmt/crwn-clothing)
+- [GitHub Blog](https://github.com/edusrmt/github-blog)
 - [Advocacia DCL](https://github.com/edusrmt/advocacia-dcl)
-- [Curso Talento Web](https://github.com/edusrmt/curso-talento-web)
+
 
 ## Contact me ✉️
 - 💬 Ask me about anything and everything.
